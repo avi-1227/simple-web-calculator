@@ -32,3 +32,5 @@ A simple Django-based web application to perform basic arithmetic operations: **
 git clone https://github.com/avi-1227/simple-web-calculator.git
 cd django-calculator
 ```
+![django-calculator](https://github.com/user-attachments/assets/af3f2fb2-7fd0-4f3e-b413-1b3657d9165e)
+
