@@ -38,16 +38,18 @@
                 </div>
             </div>
             <div class="col-sm-6">
+                {% if result is not None %}
                 <div class="card">
                     <div class="card-body">
-                        {% if result is not None %}
+
                         <h3>
                             {{operation_name}}: {{ result }}
                         </h3>
-                        {% endif %}
+
 
                     </div>
                 </div>
+                {% endif %}
             </div>
         </div>
     </div>
